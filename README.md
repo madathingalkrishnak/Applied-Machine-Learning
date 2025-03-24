@@ -8,7 +8,7 @@ This repository contains Jupyter Notebooks that demonstrate the application of m
 
 
 ## Technology Stack
-Python
-Jupyter Notebook
-Machine learning libraries (e.g., scikit-learn, TensorFlow, Keras)
-Data analysis and visualization tools (e.g., Pandas, Matplotlib)
+* Python
+* Jupyter Notebook
+* Machine learning libraries (e.g., scikit-learn, TensorFlow, Keras)
+* Data analysis and visualization tools (e.g., Pandas, Matplotlib)
